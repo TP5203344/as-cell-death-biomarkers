@@ -1,0 +1,29 @@
+# R/Python artifacts
+*.rds
+*.RData
+*.Rhistory
+*.csv.gz
+*.tsv.gz
+
+# Data files (large)
+*.csv
+!*_summary*.csv
+*.xlsx
+
+# Output figures
+*.png
+*.svg
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# R environment
+.Rproj.user/
+.Rhistory
+.RData
