@@ -60,3 +60,9 @@ Tao Y, Rong N, Shi S, Ding Y. Identification of Cell Death-related Diagnostic Bi
 ## License
 
 MIT License
+
+
+## Update (2026-08-15): Pseudotime analysis
+
+Supplementary Figure S8 (Monocle 3 pseudotime trajectory of myeloid cells and cell-death scoring):
+- `Figure5/step5_pseudotime.R` — pyroptosis/NETosis module scoring + Monocle 3 trajectory
