@@ -66,3 +66,7 @@ MIT License
 
 Supplementary Figure S8 (Monocle 3 pseudotime trajectory of myeloid cells and cell-death scoring):
 - `Figure5/step5_pseudotime.R` — pyroptosis/NETosis module scoring + Monocle 3 trajectory
+
+## Updates
+
+- **2026-09-01 (v3)**: Added CellChat cell-cell communication analysis (Figure5/step6_cellchat.R, Supp Fig S10), Venn/UpSet plots (Supp Fig S11), and GSE163154 (MaasHPS) external validation of the 17-gene signature in IPH vs non-IPH plaques (Figure3/step4_external_validation_GSE163154.py, AUC = 0.972, Supp Fig S12).
